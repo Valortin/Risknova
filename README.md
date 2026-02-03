@@ -1,6 +1,6 @@
-# **Neuraz**
+# **RiskNova**
 
-Neuraz is a cutting-edge, **AI-powered DeFi Intelligence + SocialFi engine** built on **Polygon**, the fastest and most cost-efficient Ethereum Layer-2. It delivers:
+RiskNova is a cutting-edge, **AI-powered DeFi Intelligence + SocialFi engine** built on **Linera**, the real-time Layer-1 blockchain with microchains for unparalleled speed and scalability. It delivers:
 
 * Real-time whale tracking
 * Predictive risk scoring
@@ -8,23 +8,23 @@ Neuraz is a cutting-edge, **AI-powered DeFi Intelligence + SocialFi engine** bui
 * Community-validated strategies
 * Sub-second, institutional-grade dashboards
 
-By leveraging Polygon’s low fees and instant finality, Neuraz makes institutional-grade DeFi alpha accessible to everyone—positioning itself as a flagship AI × Crypto startup for Polygon’s VC ecosystem.
+By leveraging Linera’s microchain architecture, elastic scaling, and near-instant synchronization, RiskNova makes institutional-grade DeFi alpha accessible to everyone—positioning itself as a flagship AI × Crypto startup for the Linera ecosystem.
 
 ---
 ## Smart contract deployed to the MAINNET: 0xe9E6783861f586AfE6f3f70E51D1ee5642FA593E
 ## **Repository**
 
-**GitHub:** [https://github.com/Valortin/Neuraz](https://github.com/Valortin/Neuraz)
-**Live Demo:** https://neuraz-theta.vercel.app/
+**GitHub:** [https://github.com/Valortin/RiskNova](https://github.com/Valortin/RiskNova)  
+**Live Demo:** https://risknova.vercel.app/  
 **Creator:** Valortin
 
 ---
 
-# **What Neuraz Does**
+# **What RiskNova Does**
 
 ### 🔥 **Real-Time Market Intelligence**
 
-Live price feeds, volume spikes, liquidity flows across the Polygon DeFi ecosystem.
+Live price feeds, volume spikes, liquidity flows across the Linera DeFi ecosystem.
 
 ### 🐋 **Whale Intelligence Engine**
 
@@ -44,20 +44,20 @@ Copy-trading, strategy sharing, performance scores, and community-validated trad
 
 ### ⚡ **One-Click Execution**
 
-Direct Polygon DEX + aggregator integrations for frictionless trading.
+Direct Linera DEX + aggregator integrations for frictionless trading.
 
 ---
 
-# **The Problem Neuraz Solves**
+# **The Problem RiskNova Solves**
 
-Retail traders operate blind—unable to see whale moves and overpaying on centralized platforms.
-Neuraz fixes this by offering:
+Retail traders operate blind—unable to see whale moves and overpaying on centralized platforms.  
+RiskNova fixes this by offering:
 
 * Sub-second decentralized intelligence
-* Ultra-low gas execution on Polygon
+* Ultra-low latency execution on Linera
 * Transparent, community-validated alpha
 
-Turning Polygon into **the smartest trading brain in crypto.**
+Turning Linera into **the smartest real-time trading brain in crypto.**
 
 ---
 
@@ -72,23 +72,23 @@ Turning Polygon into **the smartest trading brain in crypto.**
 
 ### **Blockchain**
 
-* Polygon (EVM)
-* Hardhat / Foundry
-* wagmi + viem
+* Linera (microchains architecture)
+* Hardhat / Foundry (adapted for Linera SDK where applicable)
+* wagmi + viem (or Linera client equivalents)
 
 ### **AI Layer**
 
-* Hybrid on-chain + off-chain inference optimized for Polygon latency
+* Hybrid on-chain + off-chain inference optimized for Linera’s real-time latency
 
 ### **Storage**
 
 * IPFS
-* The Graph
-* Polygon File Storage
+* The Graph (or Linera-native indexing solutions)
+* Linera microchain storage
 
 ### **Indexing**
 
-* The Graph Protocol for real-time events
+* Real-time event indexing via Linera notifications / The Graph Protocol
 
 ### **Database**
 
@@ -106,11 +106,11 @@ Turning Polygon into **the smartest trading brain in crypto.**
 # **How We Built It**
 
 * Bootstrapped a Next.js + Tailwind cyber-aesthetic interface
-* Deployed contracts from Polygon Mumbai → Mainnet
+* Deployed contracts / microchain logic on Linera testnet → mainnet
 * Implemented hybrid AI engine with fast off-chain workers
 * Built real-time whale tracker + predictive risk scoring
 * Added wallet connect, SocialFi features, one-click trading
-* Stress-tested sub-second performance on Polygon mainnet
+* Stress-tested sub-second performance on Linera mainnet
 
 ---
 
@@ -119,7 +119,7 @@ Turning Polygon into **the smartest trading brain in crypto.**
 ### **Wave 1 – Foundation & Demo**
 
 * Project setup
-* Basic Polygon contract
+* Basic Linera microchain / contract logic
 * Mock AI engines
 
 ### **Wave 2 – Intelligence Core**
@@ -140,32 +140,32 @@ Turning Polygon into **the smartest trading brain in crypto.**
 * Trade scanner
 * Copy-trading
 * Reputation system
-* Full Polygon mainnet rollout
+* Full Linera mainnet rollout
 
 ---
 
 # **Challenges We Overcame**
 
-* Maintaining <1s AI inference with gas < $0.001
-* Merging real-time Polygon data with external feeds
+* Maintaining <1s AI inference with ultra-low latency on Linera
+* Merging real-time Linera data with external feeds
 * Visualizing complex whale behavior intuitively
 
 ---
 
 # **What We Learned**
 
-* Polygon is ideal for real-time AI × DeFi workloads
+* Linera is ideal for real-time AI × DeFi workloads thanks to microchains and elastic validators
 * Users want alpha—but only if it’s fast, cheap, and beautiful
 * SocialFi + verifiable performance = viral growth
 
 ---
 
-# **What's Next for Neuraz**
+# **What's Next for RiskNova**
 
 * **INFTs** that tokenize profitable AI trading strategies
 * **Autonomous trading agents** (AI auto-traders)
-* **Neuraz SDK** for Polygon dApp intelligence integration
-* **$NEURAZ token** for governance + revenue sharing
+* **RiskNova SDK** for Linera dApp intelligence integration
+* **$RISKNOVA token** for governance + revenue sharing
 * **Seed round** backed by live TVL + revenue metrics
 
 ---
@@ -173,8 +173,8 @@ Turning Polygon into **the smartest trading brain in crypto.**
 # **Installation**
 
 ```bash
-git clone https://github.com/Valortin/Neuraz.git
-cd Neuraz
+git clone https://github.com/Valortin/RiskNova.git
+cd RiskNova
 npm install
 cp .env.example .env.local   # add your keys
 npm run dev
@@ -184,8 +184,8 @@ npm run dev
 
 # **Contributing**
 
-Fork → Build → Ship.
-PRs welcome!
+Fork → Build → Ship.  
+PRs welcome!  
 For major feature requests, open an issue first.
 
 ---
@@ -198,14 +198,12 @@ MIT License — see `LICENSE`
 
 # **Contact**
 
-**Creator:** Valortin
-**Twitter/X:** @yourhandle
+**Creator:** Valortin  
+**Twitter/X:** @yourhandle  
 **Discord:** valortin
 
 ---
 
 # **Acknowledgments**
 
-Built with love on **Polygon** — the chain that makes real-time AI DeFi possible.
-
----
+Built with love on **Linera** — the real-time blockchain that makes instant AI DeFi possible.
