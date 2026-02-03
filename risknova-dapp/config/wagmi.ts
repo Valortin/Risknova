@@ -9,7 +9,7 @@ if (!projectId) {
 }
 
 export default getDefaultConfig({
-  appName: 'signalswap',
+  appName: 'RiskNova',
   projectId,
   chains: [polygon],   // ← must include at least one chain
   ssr: true,           // prevents hydration mismatches in Next.js

@@ -14,12 +14,6 @@ By leveraging Linera’s microchain architecture, elastic scaling, and near-inst
 ## Smart contract deployed to the MAINNET: 0xe9E6783861f586AfE6f3f70E51D1ee5642FA593E
 ## **Repository**
 
-**GitHub:** [https://github.com/Valortin/RiskNova](https://github.com/Valortin/RiskNova)  
-**Live Demo:** https://risknova.vercel.app/  
-**Creator:** Valortin
-
----
-
 # **What RiskNova Does**
 
 ### 🔥 **Real-Time Market Intelligence**
